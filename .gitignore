@@ -1,0 +1,4 @@
+projectnextnlp-chat-dialogue-corpus/
+*.json
+.idea/
+__pycache__/
