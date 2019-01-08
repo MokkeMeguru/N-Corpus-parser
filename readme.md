@@ -22,6 +22,8 @@ python perser.py --type 3 --split_func [word, yomi, word-yomi]
 mv /path/to/projectnextnlp-chat-dialogue-corpus /path/to/N-Corpus-parser/
 python parser.py --type 4
 ```
+
+最終的に得られるファイルは cleaned-corpus.csv です。
 ## 引数の説明
 - --type (必須)     
     行うプロセスの指定    
