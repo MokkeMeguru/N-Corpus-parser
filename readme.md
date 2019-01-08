@@ -74,3 +74,6 @@ dicdir = /usr/lib/mecab/dic/mecab-ipadic-neologd
 ; bos-format = %S\n
 ; eos-format = EOS\n
 ```
+
+# TODO
+対話破綻チャレンジ2への対応
